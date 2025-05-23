@@ -1,0 +1,9 @@
+streamlit>=1.28.0
+langchain>=0.0.350
+langchain-community>=0.0.38
+langchain-core>=0.1.0
+langchain-gigachat>=0.1.0
+faiss-cpu>=1.7.4
+transformers>=4.35.0
+sentence-transformers>=2.2.2
+pathlib
